@@ -1,0 +1,82 @@
+REPORTTYPE [TR
+TRNUMBER [201702060001
+CONTRACTNO [NNG15SD64B
+TRDESC [SEWP 5 Additional CLINs 201702060001
+CONTACTNAME [Glen Anderson
+CONTACTPHONE [800-800-7056  
+CONTACTEMAIL [anderson@anacapamicro.com 
+FORWARDNOERROR [Y
+LIN [1
+CLIN [3531101.1307
+CLINTYPE [P
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3531101.1307
+DISCOUNTCLASS [Software
+DISCOUNTSUBCLASS [Miscellaneous Software
+MA [A
+LISTPRICE [850
+SEWPPRICE [850
+ITEMDESC [Server-Web Client Interactor-License
+TAAFLAG [NC
+LIN [2
+CLIN [3531102.1307
+CLINTYPE [M
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3531102.1307
+DISCOUNTCLASS [Maintenance / Warranty
+DISCOUNTSUBCLASS [Miscellaneous Maintenance / Warranty
+MA [A
+LISTPRICE [650
+SEWPPRICE [650
+ITEMDESC [Server-Web Client Interactor-Maintenance, 1 year - Start Date: 02/19/2017 and End Date: 02/18/2020
+TAAFLAG [NA
+LIN [3
+CLIN [3510103.1307
+CLINTYPE [M
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3510103.1307
+DISCOUNTCLASS [Maintenance / Warranty
+DISCOUNTSUBCLASS [Miscellaneous Maintenance / Warranty
+MA [A
+LISTPRICE [1300
+SEWPPRICE [1300
+ITEMDESC [Desktop-Professional-Maintenance Renewal, 1 year - Start Date: 02/19/2017 and End Date: 02/18/2020
+TAAFLAG [NA
+LIN [4
+CLIN [3531103.1307
+CLINTYPE [P
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3531103.1307
+DISCOUNTCLASS [Maintenance / Warranty
+DISCOUNTSUBCLASS [Miscellaneous Maintenance / Warranty
+MA [A
+LISTPRICE [650
+SEWPPRICE [650
+ITEMDESC [Server-Web Client Interactor-Maintenance Renewal, 1 year - Start Date: 02/19/2017 and End Date: 02/18/2020
+TAAFLAG [NA
+LIN [5
+CLIN [3510101.1307
+CLINTYPE [P
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3510101.1307
+DISCOUNTCLASS [Software
+DISCOUNTSUBCLASS [Miscellaneous Software
+MA [A
+LISTPRICE [1700
+SEWPPRICE [1700
+ITEMDESC [Desktop-Professional-License
+TAAFLAG [NC
+LIN [6
+CLIN [3510102.1307
+CLINTYPE [M
+PROVIDER [Tableau Software, Inc.
+PARTNUMBER [3510102.1307
+DISCOUNTCLASS [Maintenance / Warranty
+DISCOUNTSUBCLASS [Miscellaneous Maintenance / Warranty
+MA [A
+LISTPRICE [1300
+SEWPPRICE [1300
+ITEMDESC [Desktop-Professional-Maintenance, 1 year - Start Date: 02/19/2017 and End Date: 02/18/2020
+TAAFLAG [NA 
+TOTALCLINS [6
+ENDREPORT [
